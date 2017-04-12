@@ -1,2 +1,2 @@
 this is my source code
-please modify it and write "modified"
+modified
